@@ -1,1 +1,10 @@
-
+  <bug_report>Summary</bug_report>
+  <bug_report>Project</bug_report>
+  <bug_report>Component</bug_report>
+  <bug_report>Version</bug_report>
+  <bug_report>Severity</bug_report>
+  <bug_report>Priority</bug_report>
+  <bug_report>Steps_to_reproduce</bug_report>
+  <bug_report>Actual_result</bug_report>
+  <bug_report>Expected_result</bug_report>
+  <bug_report>Additional_informations</bug_report>
