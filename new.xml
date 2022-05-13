@@ -1,4 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
 <name>Viktoryia</name>
 <age>30+</age>
 <pets>Adrenaline</pets>
-<future desired salary>100500</future desired salary>
+<future_desired_salary>100500</future_desired_salary>
+</root>
